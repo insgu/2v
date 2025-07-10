@@ -1,4 +1,3 @@
-# 2v
 # 2v Client
 
 **2v Client** is a Minecraft 1.8.9 **hack client** designed to give you customizable cheats and mods for enhanced gameplay.
